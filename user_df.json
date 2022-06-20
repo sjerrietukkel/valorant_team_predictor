@@ -1,0 +1,228 @@
+{
+  "BoomeRRemoveR": {
+    "matches_played": 124,
+    "avg_combat_score": 216,
+    "most_used_class": "Sentinel",
+    "most_used_agents": [
+      "Chamber",
+      "Sova",
+      "Fade",
+      "Breach",
+      "Neon",
+      "Brimstone",
+      "Killjoy",
+      "Kayo",
+      "Sage",
+      "Reyna",
+      "Astra"
+    ],
+    "Icebox": {
+      "Breach": { "win_rate": 1.0, "matches_played": 1 },
+      "Chamber": { "win_rate": 0.45, "matches_played": 11 },
+      "Sova": { "win_rate": 0.83, "matches_played": 6 }
+    },
+    "Bind": {
+      "Sova": { "win_rate": 0.5, "matches_played": 2 },
+      "Chamber": { "win_rate": 0.33, "matches_played": 12 }
+    },
+    "Haven": {
+      "Chamber": { "win_rate": 0.6, "matches_played": 5 },
+      "Sova": { "win_rate": 0.6, "matches_played": 5 }
+    },
+    "Ascent": {
+      "Neon": { "win_rate": 1.0, "matches_played": 3 },
+      "Chamber": { "win_rate": 0.56, "matches_played": 9 },
+      "Sova": { "win_rate": 0.67, "matches_played": 3 },
+      "Brimstone": { "win_rate": 1.0, "matches_played": 1 },
+      "Astra": { "win_rate": 1.0, "matches_played": 1 }
+    },
+    "Split": {
+      "Sova": { "win_rate": 1.0, "matches_played": 1 },
+      "Chamber": { "win_rate": 0.83, "matches_played": 12 },
+      "Breach": { "win_rate": 0.25, "matches_played": 4 },
+      "Brimstone": { "win_rate": 1.0, "matches_played": 1 },
+      "Reyna": { "win_rate": 1.0, "matches_played": 1 }
+    },
+    "Fracture": {
+      "Breach": { "win_rate": 1.0, "matches_played": 4 },
+      "Chamber": { "win_rate": 0.4, "matches_played": 5 },
+      "Fade": { "win_rate": 0.33, "matches_played": 3 }
+    },
+    "Breeze": {
+      "Fade": { "win_rate": 1.0, "matches_played": 1 },
+      "Chamber": { "win_rate": 0.8, "matches_played": 10 },
+      "Breach": { "win_rate": 1.0, "matches_played": 1 },
+      "Neon": { "win_rate": 0.33, "matches_played": 3 }
+    }
+  },
+  "Simp4Jett": {
+    "matches_played": 151,
+    "avg_combat_score": 213,
+    "most_used_class": "Duelist",
+    "most_used_agents": [
+      "Jett",
+      "Chamber",
+      "Reyna",
+      "Yoru",
+      "Neon",
+      "Raze",
+      "Cypher",
+      "Skye",
+      "Phoenix",
+      "Viper",
+      "Sova",
+      "Breach",
+      "Kayo"
+    ],
+    "Icebox": {
+      "Raze": { "win_rate": 1.0, "matches_played": 1 },
+      "Jett": { "win_rate": 0.53, "matches_played": 19 },
+      "Chamber": { "win_rate": 0.5, "matches_played": 4 },
+      "Reyna": { "win_rate": 0.75, "matches_played": 4 }
+    },
+    "Bind": {
+      "Yoru": { "win_rate": 1.0, "matches_played": 1 },
+      "Jett": { "win_rate": 0.36, "matches_played": 11 },
+      "Chamber": { "win_rate": 0.75, "matches_played": 4 },
+      "Reyna": { "win_rate": 0.38, "matches_played": 8 },
+      "Skye": { "win_rate": 0.5, "matches_played": 2 }
+    },
+    "Haven": {
+      "Chamber": { "win_rate": 1.0, "matches_played": 3 },
+      "Jett": { "win_rate": 0.33, "matches_played": 9 },
+      "Reyna": { "win_rate": 0.5, "matches_played": 4 }
+    },
+    "Ascent": {
+      "Yoru": { "win_rate": 1.0, "matches_played": 2 },
+      "Jett": { "win_rate": 0.67, "matches_played": 9 },
+      "Chamber": { "win_rate": 0.8, "matches_played": 5 },
+      "Neon": { "win_rate": 1.0, "matches_played": 1 }
+    },
+    "Split": {
+      "Chamber": { "win_rate": 0.5, "matches_played": 2 },
+      "Jett": { "win_rate": 0.4, "matches_played": 15 },
+      "Reyna": { "win_rate": 0.5, "matches_played": 2 }
+    },
+    "Fracture": {
+      "Reyna": { "win_rate": 1.0, "matches_played": 1 },
+      "Jett": { "win_rate": 0.64, "matches_played": 11 },
+      "Chamber": { "win_rate": 0.67, "matches_played": 3 }
+    },
+    "Breeze": {
+      "Yoru": { "win_rate": 1.0, "matches_played": 2 },
+      "Jett": { "win_rate": 0.62, "matches_played": 13 },
+      "Chamber": { "win_rate": 0.5, "matches_played": 2 }
+    }
+  },
+  "ViezeAsbak": {
+    "matches_played": 142,
+    "avg_combat_score": 229,
+    "most_used_class": "Duelist",
+    "most_used_agents": [
+      "Reyna",
+      "Chamber",
+      "Killjoy",
+      "Sage",
+      "Phoenix",
+      "Raze",
+      "Yoru",
+      "Viper",
+      "Jett",
+      "Kayo",
+      "Omen",
+      "Skye",
+      "Brimstone"
+    ],
+    "Icebox": {
+      "Killjoy": { "win_rate": 1.0, "matches_played": 2 },
+      "Reyna": { "win_rate": 0.5, "matches_played": 4 },
+      "Chamber": { "win_rate": 0.4, "matches_played": 5 },
+      "Raze": { "win_rate": 1.0, "matches_played": 1 },
+      "Jett": { "win_rate": 0.5, "matches_played": 2 },
+      "Kayo": { "win_rate": 0.5, "matches_played": 2 },
+      "Omen": { "win_rate": 1.0, "matches_played": 1 }
+    },
+    "Bind": {
+      "Phoenix": { "win_rate": 1.0, "matches_played": 2 },
+      "Reyna": { "win_rate": 0.5, "matches_played": 8 },
+      "Chamber": { "win_rate": 0.4, "matches_played": 5 },
+      "Yoru": { "win_rate": 1.0, "matches_played": 1 }
+    },
+    "Haven": {
+      "Phoenix": { "win_rate": 1.0, "matches_played": 1 },
+      "Reyna": { "win_rate": 0.6, "matches_played": 5 },
+      "Chamber": { "win_rate": 0.5, "matches_played": 6 },
+      "Sage": { "win_rate": 0.5, "matches_played": 2 },
+      "Raze": { "win_rate": 0.5, "matches_played": 2 },
+      "Skye": { "win_rate": 1.0, "matches_played": 1 }
+    },
+    "Ascent": {
+      "Sage": { "win_rate": 1.0, "matches_played": 1 },
+      "Reyna": { "win_rate": 0.56, "matches_played": 9 },
+      "Chamber": { "win_rate": 0.4, "matches_played": 5 },
+      "Killjoy": { "win_rate": 0.67, "matches_played": 3 },
+      "Phoenix": { "win_rate": 1.0, "matches_played": 2 }
+    },
+    "Split": {
+      "Brimstone": { "win_rate": 1.0, "matches_played": 1 },
+      "Reyna": { "win_rate": 0.5, "matches_played": 10 },
+      "Chamber": { "win_rate": 0.5, "matches_played": 2 },
+      "Killjoy": { "win_rate": 0.75, "matches_played": 4 }
+    },
+    "Fracture": {
+      "Killjoy": { "win_rate": 1.0, "matches_played": 1 },
+      "Reyna": { "win_rate": 0.3, "matches_played": 10 },
+      "Chamber": { "win_rate": 0.56, "matches_played": 9 }
+    },
+    "Breeze": {
+      "Viper": { "win_rate": 1.0, "matches_played": 2 },
+      "Reyna": { "win_rate": 0.62, "matches_played": 13 },
+      "Chamber": { "win_rate": 0.5, "matches_played": 2 }
+    }
+  },
+  "sjonkie": {
+    "matches_played": 81,
+    "avg_combat_score": 234,
+    "most_used_class": "Controller",
+    "most_used_agents": ["Omen", "Brimstone", "Sova", "Fade"],
+    "Icebox": {
+      "Fade": { "win_rate": 1.0, "matches_played": 1 },
+      "Omen": { "win_rate": 0.7, "matches_played": 10 }
+    },
+    "Bind": {
+      "Brimstone": { "win_rate": 1.0, "matches_played": 2 },
+      "Omen": { "win_rate": 0.4, "matches_played": 10 },
+      "Sova": { "win_rate": 0.5, "matches_played": 2 }
+    },
+    "Haven": {
+      "Brimstone": { "win_rate": 0.6, "matches_played": 10 },
+      "Omen": { "win_rate": 0.33, "matches_played": 3 }
+    },
+    "Ascent": {
+      "Omen": { "win_rate": 0.67, "matches_played": 6 },
+      "Brimstone": { "win_rate": 0.2, "matches_played": 5 }
+    },
+    "Split": { "Brimstone": { "win_rate": 0.6, "matches_played": 10 } },
+    "Fracture": {
+      "Omen": { "win_rate": 0.67, "matches_played": 3 },
+      "Brimstone": { "win_rate": 0.6, "matches_played": 5 }
+    },
+    "Breeze": {
+      "Brimstone": { "win_rate": 1.0, "matches_played": 3 },
+      "Omen": { "win_rate": 0.38, "matches_played": 8 }
+    }
+  },
+  "LookinGreenToday": {
+    "matches_played": 77,
+    "avg_combat_score": 173,
+    "most_used_class": "Sentinel",
+    "most_used_agents": ["Sage", "Killjoy", "Reyna", "Neon", "Raze"],
+    "Icebox": { "Sage": { "win_rate": 0.75, "matches_played": 12 } },
+    "Bind": { "Sage": { "win_rate": 0.25, "matches_played": 12 } },
+    "Haven": { "Sage": { "win_rate": 0.5, "matches_played": 8 } },
+    "Ascent": { "Sage": { "win_rate": 0.75, "matches_played": 8 } },
+    "Split": { "Sage": { "win_rate": 0.75, "matches_played": 8 } },
+    "Fracture": { "Sage": { "win_rate": 0.62, "matches_played": 8 } },
+    "Breeze": { "Sage": { "win_rate": 0.62, "matches_played": 13 } }
+  }
+}
